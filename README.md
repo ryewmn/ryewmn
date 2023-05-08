@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Github repository](N/a)
 
-- 🌱 I’m currently learning **Go lang, Next.Js, and Vue**
+- 🌱 I’m currently learning **Go lang, Next.Js, and Vue** Adding Github Projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryewmn?tab=repositories](https://github.com/ryewmn?tab=repositories)
 
