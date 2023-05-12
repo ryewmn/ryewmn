@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Java, Javascript**
 
-- 📫 How to reach me **www.linkedin.com/in/ ryanchristopherrico**
+- 📫 How to reach me **www.linkedin.com/in/ryanchristopherrico**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
