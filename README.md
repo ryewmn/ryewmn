@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryewmn?tab=repositories](https://github.com/ryewmn?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.facebook.com/deepwebenigmatrademark](https://www.facebook.com/deepwebenigmatrademark)
-
 - 💬 Ask me about **Python, Java, Javascript**
 
 - 📫 How to reach me **www.linkedin.com/in/ryanchristopherrico**
