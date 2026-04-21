@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/ryewmn?tab=repositories">Projects</a> •
   <a href="https://www.linkedin.com/in/ryan-rico-282641173/">LinkedIn</a> •
-  <a href="https://instagram.com/ryewmn">Instagram</a>
+ 
 </p>
 
 ## About Me
