@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryewmn?tab=repositories">Projects</a> •
-  <a href="https://www.linkedin.com/in/ryan-rico-282641173/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ryan-rico-282641173/">LinkedIn</a>
  
 </p>
 
@@ -67,5 +67,4 @@ Right now, I am focused on:
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/ryan-rico-282641173/
-- Instagram: https://instagram.com/ryewmn
 - GitHub: https://github.com/ryewmn
