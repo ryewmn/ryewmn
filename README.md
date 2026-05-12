@@ -1,70 +1,107 @@
-<h1 align="center">Ryan Rico</h1>
-<p align="center">Software Developer in Austin, Texas</p>
+<div align="center">
+  <h1>Ryan Rico</h1>
+  <p><b>Full Stack Developer · Backend & Systems · Austin, TX</b></p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanchristopherrico/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ryanchristopher.rico@gmail.com)
+</div>
 
-<p align="center">
-  <a href="https://github.com/ryewmn?tab=repositories">Projects</a> •
-  <a href="https://www.linkedin.com/in/ryan-rico-282641173/">LinkedIn</a>
- 
-</p>
+---
 
-## About Me
+### About Me
 
-I build software that solves real business problems.
+I'm a full stack developer focused on backend systems, distributed computing, and AI-assisted development. Currently building my GitHub portfolio while studying Computer Information Technology at Austin Community College.
 
-Right now, I am focused on:
-- Go
-- Next.js
-- Vue
-- workflow automation
-- dashboards and internal tools
+- 🔨 Building production-quality backend projects in **Go** and **Rust**
+- 📡 Learning **Hadoop**, **Spark**, and distributed systems from scratch
+- 🤖 Running **Claude Code** as a daily coding agent — AI-assisted development is part of my workflow
+- 🏠 Building a homelab: Synology NAS + Docker host running self-hosted infra
+- 🌱 Currently learning: **Go concurrency**, **Rust ownership model**, **distributed key-value stores**
+- 🎯 Goal: Backend/systems engineering role with strong open source contributions
 
-## What I Work On
+---
 
-- business-focused web applications
-- internal tools and reporting systems
-- AI-assisted workflows
-- frontend and backend development
-
-## Tech Stack
+### Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Backend & Systems**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 **Frontend**
 
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Backend and Tools**
+**Infrastructure & Tools**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
-## Featured Repositories
+---
 
-- [ROUNDROCKTOYOTA](https://github.com/ryewmn/ROUNDROCKTOYOTA)
-- [discord_ai_helper](https://github.com/ryewmn/discord_ai_helper)
-- [ProjectAlliance](https://github.com/ryewmn/ProjectAlliance)
-- [View all repositories](https://github.com/ryewmn?tab=repositories)
+### Projects
 
-## GitHub Stats
+| Project | Stack | What It Does |
+|---------|-------|--------------|
+| [go-url-shortener](https://github.com/ryewmn/go-url-shortener) | Go, PostgreSQL | High-performance URL shortener with analytics and rate limiting |
+| [rust-log-analyzer](https://github.com/ryewmn/rust-log-analyzer) | Rust | CLI tool that parses and analyzes server log files at speed |
+| [hadoop-log-analytics](https://github.com/ryewmn/hadoop-log-analytics) | Java, Hadoop | MapReduce pipeline for processing large-scale log datasets |
+| [mini-mapreduce-framework](https://github.com/ryewmn/mini-mapreduce-framework) | Go | Lightweight MapReduce implementation built from scratch |
+| [distributed-kv-store](https://github.com/ryewmn/distributed-kv-store) | Go | Distributed key-value store with replication and fault tolerance |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryewmn&show_icons=true&theme=transparent" alt="Ryan Rico GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryewmn&layout=compact&theme=transparent" alt="Top languages" height="165" />
-</p>
+---
 
-## Connect With Me
+### Currently Building
 
-- LinkedIn: https://www.linkedin.com/in/ryan-rico-282641173/
-- GitHub: https://github.com/ryewmn
+```
+├── Homelab
+│   ├── Synology DS425+ NAS (Plex, backups, storage)
+│   ├── Beelink N100 Docker host (self-hosted infra)
+│   ├── Tailscale overlay network (access from anywhere)
+│   └── Ollama + Open WebUI (local LLMs)
+│
+├── Learning
+│   ├── Go goroutines and channels
+│   ├── Rust ownership and memory safety
+│   ├── Distributed consensus (Raft)
+│   └── Spark RDD transformations
+│
+└── Workflow
+    ├── Claude Code (AI coding agent, daily driver)
+    ├── GitHub Actions (CI/CD on every project)
+    └── Docker Compose (local dev environments)
+```
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryewmn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryewmn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
+</div>
+
+---
+
+<div align="center">
+  <i>Building in public. Learning by shipping.</i>
+</div>
